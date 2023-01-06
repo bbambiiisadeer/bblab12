@@ -20,7 +20,6 @@ int main(){
     else if(x == 6) cout << "You will get D in this 261102.";
     else if(x == 7) cout << "You will get F in this 261102.";
     else cout << "You will get W in this 261102.";
-    
     return 0;    
 }
 
